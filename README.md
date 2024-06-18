@@ -42,10 +42,10 @@
 <hr>
 
 <div align="center">
-  <a href="https://github.com/filipecolla/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=filipecolla&theme=react&show_icons=true" />
+  <a href="https://github.com/collafilipe/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=collafilipe&theme=react&show_icons=true" />
   </a>
-  <a href="https://github.com/filipecolla/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipecolla&layout=compact&langs_count=8&card_width=320&theme=react" />
+  <a href="https://github.com/collafilipe/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=collafilipe&layout=compact&langs_count=8&card_width=320&theme=react" />
   </a>
 </div>
