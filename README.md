@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/AWS-151515?style=for-the-badge&logo=amazon-aws&logoColor=41C9E2">&nbsp;
-    <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=41C9E2">&nbsp;
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Github-151515?style=for-the-badge&logo=Github&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Yarn-151515?style=for-the-badge&logo=yarn&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/NPM-151515?style=for-the-badge&logo=npm&logoColor=41C9E2">&nbsp;
-    <img src="https://img.shields.io/badge/VSCODE-151515?style=for-the-badge&logo=visual-studio-code&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=41C9E2">&nbsp;
 </p>
 
