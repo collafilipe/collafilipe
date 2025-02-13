@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=41C9E2">&nbsp;
-    <img src="https://img.shields.io/badge/Github-151515?style=for-the-badge&logo=Github&logoColor=41C9E2">&nbsp;
-    <img src="https://img.shields.io/badge/Yarn-151515?style=for-the-badge&logo=yarn&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Yolo-151515?style=for-the-badge&logo=Yolo&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Django-151515?style=for-the-badge&logo=Django&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/NPM-151515?style=for-the-badge&logo=npm&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=41C9E2">&nbsp;
