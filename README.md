@@ -34,6 +34,8 @@
     <img src="https://img.shields.io/badge/Redis-151515?style=for-the-badge&logo=redis&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/XML-151515?style=for-the-badge&logo=xml&logoColor=41C9E2">&nbsp;
+
 </p>
 
 ### 🔗 Connect with me:
@@ -54,6 +56,7 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=collafilipe&layout=compact&langs_count=8&card_width=320&theme=react" />
   </a>
 </div>
+
 
 
 
