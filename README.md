@@ -16,7 +16,10 @@
     <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/AWS-151515?style=for-the-badge&logo=amazon&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/GCP-151515?style=for-the-badge&logo=googlecloud&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/FIREBASE-151515?style=for-the-badge&logo=firebase&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Kotlin-151515?style=for-the-badge&logo=kotlin&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Flutter-151515?style=for-the-badge&logo=flutter&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=41C9E2">&nbsp;
@@ -50,4 +53,5 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=collafilipe&layout=compact&langs_count=8&card_width=320&theme=react" />
   </a>
 </div>
+
 
