@@ -28,8 +28,10 @@
     <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=41C9E2">&nbsp;
-    <img src="https://img.shields.io/badge/Yolo-151515?style=for-the-badge&logo=yolo&logoColor=41C9E2">&nbsp;
-    <img src="https://img.shields.io/badge/Django-151515?style=for-the-badge&logo=django&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Red%20Hat-151515?style=for-the-badge&logo=redhat&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Azure-151515?style=for-the-badge&logo=microsoftazure&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-151515?style=for-the-badge&logo=jetpackcompose&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Redis-151515?style=for-the-badge&logo=redis&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=41C9E2">&nbsp;
 </p>
@@ -52,6 +54,7 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=collafilipe&layout=compact&langs_count=8&card_width=320&theme=react" />
   </a>
 </div>
+
 
 
 
