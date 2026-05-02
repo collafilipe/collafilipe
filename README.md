@@ -120,16 +120,6 @@ The Hunt is endless. The night, *eternal*. And yet — the dream still calls.
 
 <img src="https://streak-stats.demolab.com?user=collafilipe&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=050505&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&hide_border=false" alt="streak"/>
 
-<br/><br/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=collafilipe&theme=gruvbox" alt="stats"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=collafilipe&theme=gruvbox" alt="top languages"/>
-
-<br/><br/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=collafilipe&theme=gruvbox" alt="repos per language"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=collafilipe&theme=gruvbox&utcOffset=-3" alt="productive time"/>
-
 </div>
 
 <div align="center">
