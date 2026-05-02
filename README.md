@@ -122,13 +122,13 @@ The Hunt is endless. The night, *eternal*. And yet — the dream still calls.
 
 <br/><br/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=collafilipe&theme=github_dark" alt="stats"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=collafilipe&theme=github_dark" alt="top languages"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=collafilipe&theme=gruvbox" alt="stats"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=collafilipe&theme=gruvbox" alt="top languages"/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=collafilipe&theme=github_dark" alt="repos per language"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=collafilipe&theme=github_dark&utcOffset=-3" alt="productive time"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=collafilipe&theme=gruvbox" alt="repos per language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=collafilipe&theme=gruvbox&utcOffset=-3" alt="productive time"/>
 
 </div>
 
@@ -170,13 +170,15 @@ The Hunt is endless. The night, *eternal*. And yet — the dream still calls.
 
 <div align="center">
 
-| | Discipline | Mastery |
+| | Discipline | Flame |
 |:---:|:---|:---:|
-| ◈ | Backend Engineering · APIs · Microservices | 🔥 *Pursuing* |
-| ◈ | Mobile Development · Kotlin · Flutter · Jetpack Compose | 🔥 *Pursuing* |
-| ◈ | Cloud & DevOps · AWS · GCP · Azure · Docker | 🔥 *Pursuing* |
-| ◈ | Databases · SQL · NoSQL · Redis | 🔥 *Pursuing* |
-| ◈ | Frontend Craft · React · TypeScript | 🔥 *Pursuing* |
+| ◈ | Backend Engineering · APIs · Microservices | 🔥 *Lit* |
+| ◈ | Mobile Development · Kotlin · Flutter · Jetpack Compose | ✦ *Burning Bright* |
+| ◈ | Cloud & DevOps · AWS · GCP · Azure · Docker | 🌒 *Kindling* |
+| ◈ | Databases · SQL · NoSQL · Redis | 🔥 *Lit* |
+| ◈ | Frontend Craft · React · TypeScript | 🔥 *Lit* |
+
+<sub>🌒 *Kindling* — newly sparked · 🔥 *Lit* — steady flame · ✦ *Burning Bright* — fierce and unwavering</sub>
 
 </div>
 
