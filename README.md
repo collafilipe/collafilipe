@@ -59,8 +59,6 @@ The Hunt is endless. The night, *eternal*. And yet — the dream still calls.
 ◈  Origin       →  Brazil  ✟  Realm of the Pthumerian Sun
 ◈  Covenant     →  The Hunters of the Code
 ◈  Build        →  INT / LOGIC  ⊹  Arcane scaling
-◈  Insight      →  ∞
-◈  Blood Echoes →  many
 ◈  Status       →  Awake. Refuses to go hollow.
 ```
 
