@@ -122,8 +122,13 @@ The Hunt is endless. The night, *eternal*. And yet — the dream still calls.
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=collafilipe&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=050505&border_color=2a2a2a&count_private=true&hide_border=false"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collafilipe&layout=compact&langs_count=8&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=050505&border_color=2a2a2a&hide_border=false&card_width=320"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=collafilipe&theme=github_dark" alt="stats"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=collafilipe&theme=github_dark" alt="top languages"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=collafilipe&theme=github_dark" alt="repos per language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=collafilipe&theme=github_dark&utcOffset=-3" alt="productive time"/>
 
 </div>
 
