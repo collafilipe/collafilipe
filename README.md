@@ -174,7 +174,7 @@ The Hunt is endless. The night, *eternal*. And yet — the dream still calls.
 |:---:|:---|:---:|
 | ◈ | Backend Engineering · APIs · Microservices | 🔥 *Lit* |
 | ◈ | Mobile Development · Kotlin · Flutter · Jetpack Compose | ✦ *Burning Bright* |
-| ◈ | Cloud & DevOps · AWS · GCP · Azure · Docker | 🌒 *Kindling* |
+| ◈ | Cloud & DevOps · AWS · GCP · Azure · Docker | 🔥 *Lit* |
 | ◈ | Databases · SQL · NoSQL · Redis | 🔥 *Lit* |
 | ◈ | Frontend Craft · React · TypeScript | 🔥 *Lit* |
 
